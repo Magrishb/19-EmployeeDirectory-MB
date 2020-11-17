@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "firstName": "Magrish",
+    "lastName": "Balasubramaniam",
+    "email": "bmagrish@gmail.com",
+    "github": "magrishb"
+  },
+  {
+    "id": 2,
+    "firstName": "Navdeep",
+    "lastName": "Puri",
+    "email": "navdeep.puri@gmail.com",
+    "github": "NavdeepDP"
+  },
+  {
+    "id": 3,
+    "firstName": "Jada",
+    "lastName": "Arnett",
+    "email": "jada.arnett@gmail.com",
+    "github": "jadavianett"
+  },
+  {
+    "id": 4,
+    "firstName": "Ashley",
+    "lastName": "Brown",
+    "email": "fay.ashbro@gmail.com",
+    "github": "afbrown1216"
+  },
+  {
+    "id": 5,
+    "firstName": "Aubrey",
+    "lastName": "Polk",
+    "email": "aubstacle3@gmail.com",
+    "github": "aubstacle"
+  },
+  {
+    "id": 6,
+    "firstName": "Ali",
+    "lastName": "Khan",
+    "email": "ali.khan4990@gmail.com",
+    "github": "icecicle04"
+  },
+  {
+    "id": 7,
+    "firstName": "Calvin",
+    "lastName": "Griffin",
+    "email": "cgriffin332@gmail.com",
+    "github": "cgriffin332"
+  },
+  {
+    "id": 8,
+    "firstName": "Jimmy",
+    "lastName": "Alonso",
+    "email": "jvalon9455@gmail.com",
+    "github": "jvalon9455"
+  },
+  {
+    "id": 9,
+    "firstName": "Eduardo",
+    "lastName": "Pineda",
+    "email": "edibozu@gmail.com",
+    "github": "Edibozu"
+  },
+  {
+    "id": 10,
+    "firstName": "Vincent",
+    "lastName": "Kendrick",
+    "email": "dagreatcode@gmail.com",
+    "github": "dagreatcode"
+  },
+  {
+    "id": 11,
+    "firstName": "Joe",
+    "lastName": "Lowery",
+    "email": "joseph.loweryit@gmail.com",
+    "github": "CrazyJoeShow"
+  },
+  {
+    "id": 12,
+    "firstName": "Joseph",
+    "lastName": "Perry",
+    "email": "josephperry720@gmail.com",
+    "github": "dgtlctzn"
+  },
+  {
+    "id": 13,
+    "firstName": "Lauren",
+    "lastName": "Noeltner",
+    "email": "laurennoeltner@gmail.com",
+    "github": "LNoeltner1"
+  },
+  {
+    "id": 14,
+    "firstName": "Erin",
+    "lastName": "Crocker",
+    "email": "erinleecrocker@gmail.com",
+    "github": "erinleecrocker"
+  },
+  {
+    "id": 15,
+    "firstName": "Jeff",
+    "lastName": "Flynn",
+    "email": "jeffreyedwardflynn@gmail.com",
+    "github": "7J647"
+  },
+  {
+    "id": 16,
+    "firstName": "Rayshawn",
+    "lastName": "Bray",
+    "email": "raybray219@yahoo.com",
+    "github": "2coldray"
+  },
+  {
+    "id": 17,
+    "firstName": "Thomas",
+    "lastName": "Walsh",
+    "email": "thomas.walsh736@gmail.com",
+    "github": "Kelendoheim"
+  },
+  {
+    "id": 18,
+    "firstName": "Cody",
+    "lastName": "Bonsma",
+    "email": "codybonsma@gmail.com",
+    "github": "CodyBonsma"
+  },
+  {
+    "id": 19,
+    "firstName": "Aimee",
+    "lastName": "Esler",
+    "email": "aimeecesler@gmail.com",
+    "github": "aimeecesler"
+  },
+  {
+    "id": 20,
+    "firstName": "Jason",
+    "lastName": "Ozulumba",
+    "email": "cjozulumba@gmail.com",
+    "github": "MBPJason"
+  },
+  {
+    "id": 21,
+    "firstName": "Evelyn",
+    "lastName": "Goris",
+    "email": "goris.evelyn@gmail.com",
+    "github": "SIROG-E"
+  },
+  {
+    "id": 22,
+    "firstName": "Sami",
+    "lastName": "Sully",
+    "email": "samilsully@gmail.com",
+    "github": "SamiSully"
+  },
+  {
+    "id": 23,
+    "firstName": "Raleigh",
+    "lastName": "Chesney",
+    "email": "raleighchesney@gmail.com",
+    "github": "raleighc"
+  },
+  {
+    "id": 24,
+    "firstName": "Jamie",
+    "lastName": "Jones",
+    "email": "jamjon94@gmail.com",
+    "github": "jamjon94"
+  },
+  {
+    "id": 25,
+    "firstName": "Alexander",
+    "lastName": "Fleming",
+    "email": "adfleming9@gmail.com",
+    "github": "ad-fleming"
+  },
+  {
+    "id": 26,
+    "firstName": "Andrew",
+    "lastName": "Siegel",
+    "email": "siegelal@protonmail.com",
+    "github": "siegelal7"
+  },
+  {
+    "id": 27,
+    "firstName": "Ryan",
+    "lastName": "Flanagan",
+    "email": "flanagan.ryan@gmail.com",
+    "github": "RFlanagan82"
+  },
+  {
+    "id": 28,
+    "firstName": "Andrew",
+    "lastName": "Marcus",
+    "email": "agcmarcus@gmail.com",
+    "github": "Andrew0502"
+  },
+  {
+    "id": 29,
+    "firstName": "Raj",
+    "lastName": "Kakar",
+    "email": "rajdeepkakar@gmail.com",
+    "github": "rajdeep24"
+  },
+  {
+    "id": 30,
+    "firstName": "Zach",
+    "lastName": "Drummond",
+    "email": "zachdrummond3@gmail.com",
+    "github": "zachdrummond"
+  },
+  {
+    "id": 31,
+    "firstName": "Jonathan",
+    "lastName": "Canales",
+    "email": "joncanales2@gmail.com",
+    "github": "modern-sapien"
+  },
+  {
+    "id": 32,
+    "firstName": "Amanda",
+    "lastName": "Westin",
+    "email": "amanda.fici@gmail.com",
+    "github": "a-westin"
+  },
+  {
+    "id": 33,
+    "firstName": "Kesha",
+    "lastName": "Hall",
+    "email": "k_renee10@yahoo.com",
+    "github": "hallkr86"
+  },
+  {
+    "id": 34,
+    "firstName": "Caleb",
+    "lastName": "Deal",
+    "email": "cddeal12@gmail.com",
+    "github": "cddeal12"
+  },
+  {
+    "id": 35,
+    "firstName": "Cameron",
+    "lastName": "Lay",
+    "email": "cameronlay15@gmail.com",
+    "github": "cameronlay15"
+  },
+  {
+    "id": 36,
+    "firstName": "Jonathan",
+    "lastName": "Peach",
+    "email": "jonmakesitbetter@gmail.com",
+    "github": "jonmakesitbetter"
+  },
+  {
+    "id": 37,
+    "firstName": "Shah",
+    "lastName": "Farooqui",
+    "email": "shahmir.nazir.dev@gmail.com",
+    "github": "shahmir22"
+  },
+  {
+    "id": 38,
+    "firstName": "Ashlyn",
+    "lastName": "Smith",
+    "email": "ashlyn.marie.smith2@gmail.com",
+    "github": "AshlynMarie22"
+  },
+  {
+    "id": 39,
+    "firstName": "Alix",
+    "lastName": "Webb",
+    "email": "alixkwebb@gmail.com",
+    "github": "awebb8"
+  },
+  {
+    "id": 40,
+    "firstName": "Syd",
+    "lastName": "Buchanan",
+    "email": "sydbuch@gmail.com",
+    "github": "sbuchanan"
+  },
+  {
+    "id": 41,
+    "firstName": "Shamhir",
+    "lastName": "NA",
+    "email": "Shamhir@gmail.com",
+    "github": "NA"
+  },
+  {
+    "id": 42,
+    "firstName": "Diana",
+    "lastName": "Maina",
+    "email": "dianam@gmail.com",
+    "github": "dianamaina"
+  }
+]
