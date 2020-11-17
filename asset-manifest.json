@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Magrishb/19-EmployeeDirectory-MB/static/css/main.5c7a23d1.chunk.css",
+    "main.js": "/Magrishb/19-EmployeeDirectory-MB/static/js/main.b5a6ccb2.chunk.js",
+    "main.js.map": "/Magrishb/19-EmployeeDirectory-MB/static/js/main.b5a6ccb2.chunk.js.map",
+    "runtime-main.js": "/Magrishb/19-EmployeeDirectory-MB/static/js/runtime-main.c5b26904.js",
+    "runtime-main.js.map": "/Magrishb/19-EmployeeDirectory-MB/static/js/runtime-main.c5b26904.js.map",
+    "static/js/2.cb92f2ec.chunk.js": "/Magrishb/19-EmployeeDirectory-MB/static/js/2.cb92f2ec.chunk.js",
+    "static/js/2.cb92f2ec.chunk.js.map": "/Magrishb/19-EmployeeDirectory-MB/static/js/2.cb92f2ec.chunk.js.map",
+    "static/js/3.727fe892.chunk.js": "/Magrishb/19-EmployeeDirectory-MB/static/js/3.727fe892.chunk.js",
+    "static/js/3.727fe892.chunk.js.map": "/Magrishb/19-EmployeeDirectory-MB/static/js/3.727fe892.chunk.js.map",
+    "index.html": "/Magrishb/19-EmployeeDirectory-MB/index.html",
+    "static/css/main.5c7a23d1.chunk.css.map": "/Magrishb/19-EmployeeDirectory-MB/static/css/main.5c7a23d1.chunk.css.map",
+    "static/js/2.cb92f2ec.chunk.js.LICENSE.txt": "/Magrishb/19-EmployeeDirectory-MB/static/js/2.cb92f2ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5b26904.js",
+    "static/js/2.cb92f2ec.chunk.js",
+    "static/css/main.5c7a23d1.chunk.css",
+    "static/js/main.b5a6ccb2.chunk.js"
+  ]
+}
